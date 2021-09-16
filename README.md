@@ -18,7 +18,11 @@ thank you
 develop enviroment
 
 OS : Windows
+
 tool : Visual-studio 2019
+
 language : only C++
+
 use memory : about 500M
+
 size : 270MB
