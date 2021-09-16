@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\lsh95\source\repos\miropro\miropro\main.cpp(10,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\lsh95\source\repos\miropro\miropro\main.cpp(10,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  miropro.vcxproj -> C:\Users\lsh95\source\repos\miropro\Debug\miropro.exe
